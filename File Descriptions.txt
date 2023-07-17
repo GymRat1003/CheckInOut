@@ -1,0 +1,19 @@
+add_history.php // Insert history record into accID
+
+add_housing.php // Insert location into accID
+
+admin.php // displays list of USERs, with option to delete users (if history & location records does not exist)
+
+common.php // load classes and ensure session is started
+
+login.php // login page
+
+logout.php // process logout
+
+process_delete_user // delete user (if history & location records does not exist)
+
+register.php // register page
+
+User_history.php // display history of user check in/out
+
+User_location.php // display locations of user

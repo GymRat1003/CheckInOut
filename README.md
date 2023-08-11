@@ -1,7 +1,7 @@
 # CheckInOut
 Motivation:
-People would ask what time I would be home or what time did I leave home on several occasions.
-So I thought what better way to visualize this small but meaningful process than by creating a PHP application that serves this purpose.
+Sometimes I would need to find out what time I left home or reached home on several occasions.
+So I had the idea to track this small but meaningful process, by creating a PHP application.
 
 Disclaimer:
 This app was created with the main intention to do check in/out, as well as other features.
